@@ -1,0 +1,4 @@
+#!/bin/bash
+export RDP_USER=spring
+export RDP_PASS=11111111
+
